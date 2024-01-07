@@ -1,2 +1,2 @@
-# README #
-Modifying here, doing some test work to contribute to muscle memory.
+# README- NEWWW #
+Going back through some git basics. knocking rust off.
